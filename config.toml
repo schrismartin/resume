@@ -170,7 +170,7 @@ disable404 = true
 
         [[params.projects.list]]
         title = "Syllabus"
-        # url = "https://github.com/schrismartin/syllabus"
+        url = "https://github.com/schrismartin/syllabus"
         tagline = "iOS app used to visualize due dates, assignment weights, and track progress through a course."
 
         [[params.projects.list]]
