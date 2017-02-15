@@ -153,7 +153,7 @@ disable404 = true
         [[params.jobs.list]]
         position = "Operations Intern"
         dates = "June 2013 – May 2015"
-        company = "University of Tennessee, Housing Department"
+        company = "Oak Ridge National Laboratory"
         details = "Began journey in computer programming by working to create visualizations tools to monitor and track operational data regarding ORNL's Titan Supercomputer. Worked with event-driven programming concepts to create interactive representations of realtime log data. Administered database used to collect and analyze processor faults and correlate data with external factors."
 
     # Projects section
@@ -202,7 +202,7 @@ disable404 = true
         [[params.skills.list]]
         skill = "Swift"
         level = "90%"
-                
+
         [[params.skills.list]]
         skill = "iOS Development"
         level = "80%"
@@ -233,7 +233,7 @@ disable404 = true
     # Please keep the original attribution link when using for your own project.
     # If you'd like to use the template without the attribution,
     # you can check out other license options via template author's website: themes.3rdwavemedia.com
-    # 
+    #
     # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
     [params.footer]
