@@ -124,7 +124,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I am an iOS developer with a focus in designing/implementing smooth and intuitive user experiences. I'm always working on projects to enhance my ability to write clean, modular, maintainable code. Lover of all things Swift.\n\nI'm looking for a position where I can work on great apps with great people. I enjoy working on apps that are consumer facing, where the features I build directly impact user experience. Able to quickly relocate almost anywhere."
+        summary = "I am an iOS developer with a focus in designing/implementing smooth and intuitive user experiences. I'm always working on projects to enhance my programming practices, currently focusing on enhancing readability, effective code reuse, and design pattern conformance.\n\nI'm looking for a position where I can make meaningful contributions towards building creative solutions to common problems. I enjoy working on apps that are consumer facing, where the features I build directly impact user experience. Able to quickly relocate almost anywhere."
 
     # Experiences section
     [params.experiences]
@@ -164,14 +164,14 @@ disable404 = true
         intro = "I firmly believe that good programming is best learned by creating, reflecting, and revising. I enjoy taking on new challenges through personal projects to apply new skills and methods. Listed below are a few that I've been working on."
 
         [[params.projects.list]]
+        title = "Syllabus"
+        url = "http://www.syllabus-app.com"
+        tagline = "iOS app used to visualize due dates, assignment weights, and track progress through a course."
+
+        [[params.projects.list]]
         title = "The Narrator"
         url = "https://github.com/schrismartin/dont-shoot-the-messenger"
         tagline = "Procedurally generated text-based adventure played through Facebook's Messenger platform."
-
-        [[params.projects.list]]
-        title = "Syllabus"
-        url = "https://github.com/schrismartin/syllabus"
-        tagline = "iOS app used to visualize due dates, assignment weights, and track progress through a course."
 
         [[params.projects.list]]
         title = "Jassem"
